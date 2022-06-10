@@ -1,0 +1,11 @@
+{
+  "name": "Emote Wall",
+  "version": "1.0.0",
+  "description": "Displays emotes in chat on floating on the screen",
+  "main": "command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
