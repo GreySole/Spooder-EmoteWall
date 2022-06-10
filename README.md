@@ -1,2 +1,3 @@
-# Spooder-Chatbox
- Chatbox plugin for Spooder. Contains essential icons, animated emote support, and customization options.
+# Installation
+Compress both folders into a zip file. Click Install New Plugin on Spooder's Web UI and select the zip.
+Note: The name of your zip file is the name Spooder will give the plugin.
